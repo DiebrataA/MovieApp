@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_year_label">Release</string>
+    <string name="genre">Genre</string>
+    <string name="rating_label">Rating</string>
+    <string name="director_label">Director</string>
+    <string name="director_name">Director Name</string>
+    <string name="year_value">Year</string>
+    <string name="rating_value">RAT</string>
+    <string name="description_label">Description</string>
+    <string name="duration">duration</string>
+    <string name="seasons">seasons</string>
+    <string name="status_label">Status</string>
+    <string name="movie_home">Movies</string>
+    <string name="tv_home">TV Shows</string>
+    <string name="title_app">Cool Movies</string>
+    <string name="details_title">Movie\'s Detail</string>
+    <string name="show_detail_title">Show\'s Detail</string>
+    <string name="seasons_text"> Seasons</string>
+    <string name="logo">Logo</string>
+    <string name="poster_images">poster_images</string>
+</resources>
